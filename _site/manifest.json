@@ -1,0 +1,22 @@
+{
+  "short_name": "Zayn's Stairway To The Sky",
+  "name": "Zayn's Stairway To The Sky",
+  "description": "Setlist for Zayn's Stairway To The Sky concert",
+  "icons": [
+    {
+      "src": "/splash-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "/favicon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#ffffff"
+}

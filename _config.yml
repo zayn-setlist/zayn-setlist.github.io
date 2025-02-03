@@ -1,10 +1,10 @@
 # Site settings
 title:       Zayn's Stairway To The Sky
-email:       your_email@example.com
+email:       yash.jain3599@gmail.com
 author:      Jain
 description: "Setlist for Zayn's Stairway To The Sky concert"
 baseurl:     ""
-url:         "https://pixyll.com"
+url:         "https://zayn-setlist.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - contact.html
@@ -17,7 +17,7 @@ header_pages:
 google_verification:
 # Use either direct GA implementation or set up GTM account
 # - using both will skew your data (leave blank to not use at all)
-google_analytics:
+google_analytics: G-NWCPQPPY16
 google_tag_manager:
 # Bing services
 bing_verification:
@@ -27,7 +27,7 @@ animated:             false
 show_related_posts:   false
 show_post_footers:    false
 show_social_icons:    false
-ajaxify_contact_form: false
+ajaxify_contact_form: xovjwbwg
 enable_mathjax: false
 extended_fonts: false
 enable_anchorjs: false
